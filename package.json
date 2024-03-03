@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "axios": "^1.5.0",
+    "crypto": "^1.0.1",
+    "https-proxy-agent": "^7.0.2",
+    "prettier": "^3.0.3"
+  },
+  "name": "you-ai",
+  "description": "Free Module Chat Gpt Scraper from you.com",
+  "version": "0.0.18",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "format": "prettier --write '**/*.{js,json}'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanzydev/you-ai.git"
+  },
+  "keywords": [
+    "free-chatgpt",
+    "openai",
+    "chatgpt",
+    "ai",
+    "you-ai",
+    "gpt",
+    "gpt-4"
+  ],
+  "author": "Sanzy Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sannzydev/you-ai/issues"
+  },
+  "homepage": "https://github.com/sanzydev/you-ai#readme"
+}
